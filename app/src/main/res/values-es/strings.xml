@@ -1,0 +1,8 @@
+<resources>
+    <!--activity_main.xml-->
+    <string name="app_name">NetWorker Professional</string>
+    <string name="userid">ID de usuario</string>
+    <string name="useridhint">Inserte ID de usuario</string>
+    <string name="errormessageID">Inserte su ID por favor</string>
+    <string name="accept">Entrar</string>
+</resources>
